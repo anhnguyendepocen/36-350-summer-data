@@ -28,3 +28,19 @@ write.table(endgame,
             file = "~/Desktop/endgame.txt",
             row.names=F,
             quote=F)
+
+#####
+# Infinity war
+
+url <- "https://transcripts.fandom.com/wiki/Avengers:_Infinity_War"
+
+infinitywar <- url %>%
+  read_html %>%
+  html_nodes("p") %>%
+  html_text %>%
+  data.frame
+  
+write.table(infinitywar,
+            file = "~/Desktop/infinitywar.txt",
+            row.names=F,
+            quote=F)
