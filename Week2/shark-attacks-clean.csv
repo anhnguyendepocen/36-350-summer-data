@@ -1,4 +1,4 @@
-"X","Case.Number","Date","Type","Country","Area","Location","Activity","Name","Sex","Age","Injury","Time","Species","Investigator.or.Source","Fatal","SharkLength"
+"X","Case Number","Date","Type","Country","Area","Location","Activity","Name","Sex","Age","Injury","Time","Species","Investigator or Source","Fatal","SharkLength"
 1,"2016.09.18.c","2016-09-18","Unprovoked","USA","Florida","New Smyrna Beach, Volusia County","Surfing","male","M",24,"Minor injury to thigh","13h00",NA,"Orlando Sentinel, 9/19/2016","N",10
 2,"2016.09.18.b","2016-09-18","Unprovoked","USA","Florida","New Smyrna Beach, Volusia County","Surfing","Chucky Luciano","M",74,"Lacerations to hands","11h00",NA,"Orlando Sentinel, 9/19/2016","N",9
 3,"2016.09.18.a","2016-09-18","Unprovoked","USA","Florida","New Smyrna Beach, Volusia County","Surfing","male","M",85,"Lacerations to lower leg","10h43",NA,"Orlando Sentinel, 9/19/2016","N",5
